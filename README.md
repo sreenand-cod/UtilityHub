@@ -1,10 +1,6 @@
 # 🚀 UtilityHub
 
 <p align="center">
-  <img src="assets/images/banner.png" alt="UtilityHub Banner" width="100%">
-</p>
-
-<p align="center">
   <strong>All Your Everyday Utilities — One Beautiful Website.</strong>
 </p>
 
