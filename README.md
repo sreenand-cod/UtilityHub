@@ -269,16 +269,13 @@ See the LICENSE file for details.
 
 ---
 
-# 👨‍💻 Developer
+# 👨‍💻 About the Developer
 
 **Sreenand S Kumar**
 
-Built with using HTML, CSS and JavaScript.
+- 🌐 GitHub: https://github.com/sreenand-cod
+- 🚀 Creator of UtilityHub
+- 💡 Passionate about Web Development, Productivity Tools, and Open Source.
 
+If you like this project, don't forget to ⭐ star the repository!
 ---
-
-<p align="center">
-
-⭐ If you like this project, consider giving it a Star on GitHub!
-
-</p>
